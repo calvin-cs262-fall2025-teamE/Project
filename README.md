@@ -4,9 +4,9 @@ Welcome! We're excited to show you the concept for our forum app.
 
 ## Our Vision
 
-We are developing CommUnity, an interactive application to strengthen connections between newcomers and established community members who can share knowledge and support. Specifically, we will start with students on Calvin’s campus, where communities include specific dorms, KE apartment buildings, and possibly classes and student organizations. The app allows people within these communities to collaborate, offer support, and share meaningful knowledge about campus life and beyond through a Q+A forum.
+We are creating CommUnity: a mobile-first Q&A hub tailored for Calvin's specific communities, from dorms to apartments. Current tools like Reddit or Discord are either too broad and lack local focus, or too closed-off for knowledge to be easily discovered. CommUnity fills this gap, transforming the campus's "invisible" support network into a visible one by facilitating meaningful knowledge sharing and strengthening real connections within these communities.
 
-This app will stand out from competitors such as Reddit, Discord, and Slack by being locally subdivided and built for mobile. It will focus on organizing more social and less technical information while providing three key features: posting information, asking questions, and searching previous posts. Ultimately, our project aims to utilize Calvin University’s rich culture as a foundation for building inclusive spaces, regardless of background, and to enhance belonging while strengthening relationships across the locations we serve.
+It will focus on organizing more social and less technical information while providing three key features: posting information, asking questions, and searching previous posts. Ultimately, our project aims to utilize Calvin University’s rich culture as a foundation for building inclusive spaces, regardless of background, and to enhance belonging while strengthening relationships across the locations we serve.
  
 ## Resources
 
