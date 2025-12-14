@@ -15,6 +15,8 @@ It will focus on organizing more social and less technical information while pro
    - [Data Service](https://github.com/calvin-cs262-fall2025-teamE/Service)  
 
 [Primary UI Model](https://claude.ai/public/artifacts/35fd00eb-d95c-4ab9-92c3-04f01cc98b15)
+[Usability Test Script](https://github.com/calvin-cs262-fall2025-teamE/Project/blob/main/UsabilityTest.pdf)
+[Report on our Tests](https://github.com/calvin-cs262-fall2025-teamE/Project/blob/main/UserTestReport.md)
 
 ## Authors
 
